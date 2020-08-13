@@ -12,7 +12,7 @@
 
 ## C++
 
-#### * 二维数组排序
+* 二维数组排序
 对一维数组的排序比较好理解，在leetcode题解中看到直接使用```sort(arr.begin(),arr.end())```对二维数组进行排序,简单的测试了一下，参考[测试代码](https://github.com/HiJaEn/LeetCodeHub/blob/master/code/VectorVector_sort.cpp)
 ```bash
 vector<vector<int>> edges={{1,2},{5,4},{3,4},{2,8}};
