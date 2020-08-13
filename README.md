@@ -3,7 +3,7 @@
 ## 数据结构与算法
 |<center>Alorithm|<center>Code|<center>Reference|Example|
 |---|---|---|---|
-|<center>**线段树**|<center>[segment_tree.cpp](https://github.com/HiJaEn/LeetCodeHub/blob/master/code/Segment_tree.cpp)| <center>[vedio](https://www.bilibili.com/video/BV1cb411t7AM?from=search&seid=16819879578820315421)|<p align="left">[leetcode]()</p> |
+|<center>线段树|<center>[segment_tree.cpp](https://github.com/HiJaEn/LeetCodeHub/blob/master/code/Segment_tree.cpp)| <center>[vedio](https://www.bilibili.com/video/BV1cb411t7AM?from=search&seid=16819879578820315421)|<p align="left">[leetcode]()</p> |
 |<center>**并查集**|<center>[disjoint_set.cpp](https://github.com/HiJaEn/LeetCodeHub/blob/master/code/Disjoint_set.cpp)| <center>[vedio](https://www.bilibili.com/video/BV13t411v7Fs?from=search&seid=301133990733687838)|<p align="left">[leetcode]()</p>|
 | <center>**广度优先搜索**| |<center>[vedio](https://www.bilibili.com/video/BV1Ks411579J?from=search&seid=11399053858632586820)|<p align="left">[leetcode]()</p>|
 
