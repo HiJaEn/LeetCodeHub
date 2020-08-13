@@ -1,1 +1,6 @@
-# LeetCodeHub
+# LeetCode
+
+***2020/8/13**
+
+并查集、线段树
+
