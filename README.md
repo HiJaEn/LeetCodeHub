@@ -1,4 +1,4 @@
-<div align='center' > <font size='15'>学习记录</font> </div>
+#学习记录
 
 ## 数据结构与算法
 
