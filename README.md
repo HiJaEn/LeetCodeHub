@@ -1,6 +1,6 @@
 # 测试
 ## 数据结构与算法
-|<center>   Alorithm    |<center>Code|<center>Reference|<center>Example|
+|<p align="center"> Alorithm </p>|<p align="center">Code</p>|<p align="center">Reference</p>|<p align="center">Example</p>|
 |----|----|----|---|
 |<p align="center">**线段树**</p>|<p align="center">[线段树示例](https://github.com/HiJaEn/LeetCodeHub/blob/master/code/Segment_tree.cpp)| <p align="center">[线段树视频](https://www.bilibili.com/video/BV1cb411t7AM?from=search&seid=16819879578820315421)</p>|---|
 |<p align="center">**并查集**</p>|<p align="center">[并查集示例](https://github.com/HiJaEn/LeetCodeHub/blob/master/code/Disjoint_set.cpp)| <p align="center">[并查集视频](https://www.bilibili.com/video/BV13t411v7Fs?from=search&seid=301133990733687838)</p>|---|
